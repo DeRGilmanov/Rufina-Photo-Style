@@ -751,3 +751,60 @@ display:inline-flex;
         line-height: 1.6;
     }
     /* Четвертая вкладка Отзывы */
+.container-contact {
+    display: flex;
+
+}
+
+.text-contact {
+    padding-left: 300px;
+    font-size: 17px;
+    margin-top: 50px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+
+    width: 50%;
+    float: left;
+
+
+}
+
+.image-contact {
+    flex: 1;
+    margin-top: 50px;
+    margin-right: 40px;
+}
+
+.image-contact img {
+    height: 450px;
+    border-radius: 140px;
+}
+.record-1 {
+    border-radius: 100px;
+    /* Закругляем углы */
+    /* Добавляем отступ внутри рамки */
+    text-align: center;
+    /* Центрируем текст внутри рамки */
+    padding-top: 50px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+
+}
+.record-2 {
+    border-radius: 100px;
+    /* Закругляем углы */
+    /* Добавляем отступ внутри рамки */
+    text-align: center;
+    /* Центрируем текст внутри рамки */
+    padding-top: 5px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+
+}
+.record-3 {
+    border-radius: 100px;
+    /* Закругляем углы */
+    /* Добавляем отступ внутри рамки */
+    text-align: center;
+    /* Центрируем текст внутри рамки */
+    padding-top: 5px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+
+}
